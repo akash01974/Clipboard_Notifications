@@ -1,4 +1,4 @@
-# 📋 Clipboard Tooltips
+# 📋 Clipboard Notification Tooltips
 
 Elegant notifications for your clipboard operations (Copy, Cut, Paste) with smooth animations!
 
