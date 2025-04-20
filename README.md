@@ -7,17 +7,19 @@ Elegant notifications for your clipboard operations (Copy, Cut, Paste) with smoo
 ### 🔷 How to set it up?
 1. **Download** the file 👇  
    https://github.com/akash01974/Clipboard_Notifications/releases/tag/v0.1.0
+   
    **OR** Clone the repository:
+   
    ```bash
    git clone https://github.com/akash01974/Clipboard_Notifications.git
    ```
-2. **Open** the zip file
-3. **Choose** any version you like:
+3. **Open** the zip file
+4. **Choose** any version you like:
    - `Copy Tooltip.exe` - Simple copy notification
    - `Cut Tooltip.exe` - Cut operation notification  
    - `Paste Tooltip.exe` - Paste operation notification
    - `Clipboard Tooltips.exe` - All operations combined
-4. **Run** the executable - That's it! You'll now see custom tooltips when using Ctrl+C/X/V
+5. **Run** the executable - That's it! You'll now see custom tooltips when using Ctrl+C/X/V
 
 ### ⚡ Auto-start (Optional)
 To run automatically on startup:
