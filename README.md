@@ -9,7 +9,7 @@ Elegant notifications for your clipboard operations (Copy, Cut, Paste) with smoo
 
 ### 🔷 **How to Set It Up**  
 1. **Download** the file 👇  
-   [Download here](https://github.com/akash01974/Clipboard_Notifications/releases/tag/v0.1.0)
+   [v0.1.0](https://github.com/akash01974/Clipboard_Notifications/releases/tag/v0.1.0)
    
    **OR** Clone the repository:
    
@@ -73,5 +73,3 @@ To run automatically on startup:
 💡 **Tip**: Customize colors, size, and duration by editing the AHK scripts!
 
 ---
-
-Let me know if you need further edits!
