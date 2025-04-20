@@ -6,7 +6,11 @@ Elegant notifications for your clipboard operations (Copy, Cut, Paste) with smoo
 
 ### 🔷 How to set it up?
 1. **Download** the file 👇  
-   [Clipboard Tooltips.zip](https://example.com/download) *(replace with actual link)*
+   https://github.com/akash01974/Clipboard_Notifications/releases/tag/v0.1.0
+   **OR** Clone the repository:
+   ```bash
+   git clone https://github.com/akash01974/Clipboard_Notifications.git
+   ```
 2. **Open** the zip file
 3. **Choose** any version you like:
    - `Copy Tooltip.exe` - Simple copy notification
